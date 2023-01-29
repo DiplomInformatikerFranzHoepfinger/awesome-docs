@@ -1,3 +1,8 @@
+---
+myst:
+  enable_extensions: ["colon_fence"]
+---
+
 # Welcome to franz-awesome-docs's documentation!
 
 :::{tip}
