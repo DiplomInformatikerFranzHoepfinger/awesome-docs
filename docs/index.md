@@ -5,6 +5,14 @@
 
 # Welcome to franz-awesome-docs's documentation!
 
+:::{tip}
+If you'd like to *automatically* generate targets for each of your section headers,
+check out the [](syntax/header-anchors) section of extended syntaxes.
+:::
+
+:::{note}
+This project is under active development.
+:::
 
 # Indices and tables
 
