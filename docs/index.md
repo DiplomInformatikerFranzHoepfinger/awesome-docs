@@ -1,6 +1,22 @@
 ---
 myst:
-  enable_extensions: ["colon_fence"]
+  enable_extensions: [
+    "dollarmath",
+    "amsmath",
+    "deflist",
+    "fieldlist",
+    "html_admonition",
+    "html_image",
+    "colon_fence",
+    "smartquotes",
+    "replacements",
+    "linkify",
+    "strikethrough",
+    "substitution",
+    "tasklist",
+    "attrs_inline",
+    "inv_link",
+]
 ---
 
 # Welcome to franz-awesome-docs's documentation!
