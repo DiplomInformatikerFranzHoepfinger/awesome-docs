@@ -5,6 +5,7 @@ requests
 docutils
 sphinxcontrib-serializinghtml
 myst_parser
+sphinx-rtd-theme
 sphinx
 sphinxcontrib-websupport
 sphinx_design
@@ -13,4 +14,4 @@ sphinxcontrib.mermaid
 sphinxext.opengraph
 sphinx_pyscript
 sphinx_tippy
-sphinx-rtd-theme
+sphinx-markdown-tables
