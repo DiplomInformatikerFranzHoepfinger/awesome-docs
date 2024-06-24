@@ -79,4 +79,4 @@ Und so lebten die Elfen in Frieden und Glückseligkeit, dank des tapferen Helden
 
 [Lustig.md#lustig3](Lustig.md#lustig3)
 
-\<https://franz-awesome-docs.readthedocs.io/\>
+<https://franz-awesome-docs.readthedocs.io>
